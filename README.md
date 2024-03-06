@@ -1,4 +1,4 @@
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-06 at 00 58 36](https://github.com/mdgulfam00/ToDoList/assets/97732788/508cbadf-88f0-4cec-b569-f7941eccf89a)Video Demo :--   https://drive.google.com/file/d/1DKXPxzcUAJrgAeQrSWtu6zhPgzKAFyyV/view?usp=drive_link
+Video Demo :--   https://drive.google.com/file/d/1DKXPxzcUAJrgAeQrSWtu6zhPgzKAFyyV/view?usp=drive_link
 
 <h1>Login Page</h1>
 ![Simulator Screenshot - iPhone 15 Pro - 2024-03-06 at 23 51 51](https://github.com/mdgulfam00/ToDoList/assets/97732788/92587f16-b627-441c-acbb-e5b30757be36)
@@ -15,7 +15,7 @@
 
 
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-06 at 00 58 36](https://github.com/mdgulfam00/ToDoList/assets/97732788/e7990e90-5416-4d5e-8cbe-c69a9e654394)
+(https://github.com/mdgulfam00/ToDoList/assets/97732788/e7990e90-5416-4d5e-8cbe-c69a9e654394)
 
 
 
